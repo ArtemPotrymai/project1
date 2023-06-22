@@ -1,3 +1,3 @@
 Artem Potrymai
-numer albumu 23650
+numer albumu 23625
 grupa INF C2
